@@ -1,10 +1,7 @@
 Italic:         *Hello World!*  <br />
 Bold:           **Hello World!**  <br />
-
-# Hello World  <br />
-Heading 2:      ## Hello World   <br />
-
-
+# HEADING 1  <br />
+## HEADING 2  <br />
 Link:           [link](github.com)
 
 
