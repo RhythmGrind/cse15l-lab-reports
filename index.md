@@ -12,4 +12,8 @@ Image:          ![Image](https://github.githubassets.com/images/modules/logos_pa
 
 * List 
 * List 
-* List
+* List <br />
+
+1. One
+2. Two
+3. Three
