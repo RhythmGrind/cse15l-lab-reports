@@ -7,13 +7,23 @@ Link:           [link](http://github.com)
 
 Image:          ![Image](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-> Blockquote  <br />
+> Blockquote  
+<br />
 
 
 * List 
 * List 
-* List <br />
+* List 
+<br />
 
 1. One
 2. Two
-3. Three
+3. Three 
+<br />
+
+Horizontal rule:
+
+***
+<br />
+
+`Inline code`
