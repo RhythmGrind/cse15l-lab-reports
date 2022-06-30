@@ -7,5 +7,5 @@ Link:           [link](http://github.com)
 
 Image:          ![Image](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-> Blockquote
+> Blockquote  <br />
 List:           * List * List * List
