@@ -27,6 +27,7 @@ Horizontal rule:
 <br />
 
 `Inline code`
+<br />
 
 ```
 # code block
